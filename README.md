@@ -1,2 +1,0 @@
-# credit
-Created with CodeSandbox
